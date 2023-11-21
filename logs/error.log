@@ -1,5 +1,5 @@
-2023-11-21 15:30:59 | ERROR    | hcaptcha_challenger.agents.playwright.control:execute:680 | task interrupt <backcall> - {'reason': 'Failed to obtain challenge response'}
-2023-11-21 15:33:23 | ERROR    | __main__:run:167 | An error has been caught in function 'run', process 'MainProcess' (3637), thread 'MainThread' (140147352341376): - {}
+2023-11-21 18:28:55 | ERROR    | hcaptcha_challenger.agents.playwright.control:execute:615 | task interrupt <backcall> - {'reason': 'Failed to obtain challenge task'}
+2023-11-21 18:29:26 | ERROR    | __main__:run:167 | An error has been caught in function 'run', process 'MainProcess' (3611), thread 'MainThread' (140210696649600): - {}
 Traceback (most recent call last):
   File "/home/runner/work/epic-awesome-gamer/epic-awesome-gamer/epic/src/claim.py", line 171, in <module>
     asyncio.run(run())
