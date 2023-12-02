@@ -1,27 +1,26 @@
-2023-12-01 18:19:44 | INFO    | __main__:stash:131 | run - {'image': '20231121', 'version': '0.10.1.post1', 'role': 'EpicPlayer', 'headless': True}
-2023-12-01 18:19:49 | DEBUG    | __main__:create_tasks:66 | Put task - {'title': 'Mighty Fight Federation', 'url': 'https://store.epicgames.com/en-US/p/mighty-fight-federation'}
-2023-12-01 18:19:49 | DEBUG    | __main__:create_tasks:66 | Put task - {'title': 'Jitsu Squad', 'url': 'https://store.epicgames.com/en-US/p/jitsu-squad-af3f2f'}
-2023-12-01 18:19:54 | INFO    | epic_games.agent:claim_weekly_games:294 | claim_weekly_games - {'action': 'go to store', 'url': 'https://store.epicgames.com/en-US/p/mighty-fight-federation'}
-2023-12-01 18:19:58 | INFO    | epic_games.agent:claim_weekly_games:294 | claim_weekly_games - {'action': 'go to store', 'url': 'https://store.epicgames.com/en-US/p/jitsu-squad-af3f2f'}
-2023-12-01 18:20:07 | INFO    | epic_games.agent:claim_weekly_games:326 | claim_weekly_games - {'action': 'move to webPurchaseContainer iframe'}
-2023-12-01 18:20:10 | INFO    | epic_games.agent:claim_weekly_games:328 | claim_weekly_games - {'action': 'click payment button'}
-2023-12-01 18:20:15 | DEBUG    | hcaptcha_challenger.agents.playwright.control:_parse_label:241 | get task - {'prompt': 'Please click on animals that can live in wаter.'}
-2023-12-01 18:20:16 | DEBUG    | hcaptcha_challenger.agents.playwright.control:_catch_all_binary_challenge:474 | handle task - {'unsupervised': 'binary', 'candidate_labels': ['This is a picture that looks like please click on animals that can live in water.', "This is a picture that don't look like please click on animals that can live in water."], 'prompt': 'Please click on animals that can live in wаter.', 'timit': '0.941s'}
-2023-12-01 18:20:23 | DEBUG    | epic_games.agent:insert_challenge:106 | task done - {'sattus': 'success'}
-2023-12-01 18:20:56 | INFO    | epic_games.agent:claim_weekly_games:294 | claim_weekly_games - {'action': 'go to store', 'url': 'https://store.epicgames.com/en-US/p/mighty-fight-federation'}
-2023-12-01 18:21:00 | INFO    | epic_games.agent:claim_weekly_games:294 | claim_weekly_games - {'action': 'go to store', 'url': 'https://store.epicgames.com/en-US/p/jitsu-squad-af3f2f'}
-2023-12-01 18:21:09 | INFO    | epic_games.agent:claim_weekly_games:326 | claim_weekly_games - {'action': 'move to webPurchaseContainer iframe'}
-2023-12-01 18:21:11 | INFO    | epic_games.agent:claim_weekly_games:328 | claim_weekly_games - {'action': 'click payment button'}
-2023-12-01 18:21:16 | DEBUG    | hcaptcha_challenger.agents.playwright.control:_parse_label:241 | get task - {'prompt': 'Please click on objects used for personal transpοrtatіon.'}
-2023-12-01 18:21:17 | DEBUG    | hcaptcha_challenger.agents.playwright.control:_catch_all_binary_challenge:474 | handle task - {'unsupervised': 'binary', 'candidate_labels': ['This is a picture that looks like please click on objects used for personal transportation.', "This is a picture that don't look like please click on objects used for personal transportation."], 'prompt': 'Please click on objects used for personal transpοrtatіon.', 'timit': '0.701s'}
-2023-12-01 18:21:31 | DEBUG    | epic_games.agent:insert_challenge:106 | task done - {'sattus': 'success'}
-2023-12-01 18:22:03 | INFO    | epic_games.agent:claim_weekly_games:294 | claim_weekly_games - {'action': 'go to store', 'url': 'https://store.epicgames.com/en-US/p/mighty-fight-federation'}
-2023-12-01 18:22:08 | INFO    | epic_games.agent:claim_weekly_games:294 | claim_weekly_games - {'action': 'go to store', 'url': 'https://store.epicgames.com/en-US/p/jitsu-squad-af3f2f'}
-2023-12-01 18:22:16 | INFO    | epic_games.agent:claim_weekly_games:326 | claim_weekly_games - {'action': 'move to webPurchaseContainer iframe'}
-2023-12-01 18:22:19 | INFO    | epic_games.agent:claim_weekly_games:328 | claim_weekly_games - {'action': 'click payment button'}
-2023-12-01 18:22:24 | DEBUG    | hcaptcha_challenger.agents.playwright.control:_parse_label:241 | get task - {'prompt': 'Please click on the head of the animаl'}
-2023-12-01 18:22:38 | DEBUG    | epic_games.agent:insert_challenge:106 | task done - {'sattus': 'success'}
-2023-12-01 18:23:10 | ERROR    | __main__:run:158 | An error has been caught in function 'run', process 'MainProcess' (3606), thread 'MainThread' (139850078890880): - {}
+2023-12-02 18:17:28 | INFO    | __main__:stash:131 | run - {'image': '20231121', 'version': '0.10.1.post1', 'role': 'EpicPlayer', 'headless': True}
+2023-12-02 18:17:35 | DEBUG    | __main__:create_tasks:66 | Put task - {'title': 'Mighty Fight Federation', 'url': 'https://store.epicgames.com/en-US/p/mighty-fight-federation'}
+2023-12-02 18:17:35 | DEBUG    | __main__:create_tasks:66 | Put task - {'title': 'Jitsu Squad', 'url': 'https://store.epicgames.com/en-US/p/jitsu-squad-af3f2f'}
+2023-12-02 18:17:41 | INFO    | epic_games.agent:claim_weekly_games:294 | claim_weekly_games - {'action': 'go to store', 'url': 'https://store.epicgames.com/en-US/p/mighty-fight-federation'}
+2023-12-02 18:17:44 | INFO    | epic_games.agent:claim_weekly_games:294 | claim_weekly_games - {'action': 'go to store', 'url': 'https://store.epicgames.com/en-US/p/jitsu-squad-af3f2f'}
+2023-12-02 18:17:53 | INFO    | epic_games.agent:claim_weekly_games:326 | claim_weekly_games - {'action': 'move to webPurchaseContainer iframe'}
+2023-12-02 18:17:56 | INFO    | epic_games.agent:claim_weekly_games:328 | claim_weekly_games - {'action': 'click payment button'}
+2023-12-02 18:18:01 | DEBUG    | hcaptcha_challenger.agents.playwright.control:_parse_label:241 | get task - {'prompt': 'Please click on the head of the аnіmal'}
+2023-12-02 18:18:16 | DEBUG    | epic_games.agent:insert_challenge:106 | task done - {'sattus': 'success'}
+2023-12-02 18:18:48 | INFO    | epic_games.agent:claim_weekly_games:294 | claim_weekly_games - {'action': 'go to store', 'url': 'https://store.epicgames.com/en-US/p/mighty-fight-federation'}
+2023-12-02 18:18:53 | INFO    | epic_games.agent:claim_weekly_games:294 | claim_weekly_games - {'action': 'go to store', 'url': 'https://store.epicgames.com/en-US/p/jitsu-squad-af3f2f'}
+2023-12-02 18:19:01 | INFO    | epic_games.agent:claim_weekly_games:326 | claim_weekly_games - {'action': 'move to webPurchaseContainer iframe'}
+2023-12-02 18:19:04 | INFO    | epic_games.agent:claim_weekly_games:328 | claim_weekly_games - {'action': 'click payment button'}
+2023-12-02 18:19:09 | DEBUG    | hcaptcha_challenger.agents.playwright.control:_parse_label:241 | get task - {'prompt': 'Please click on all musical instruments in the 9 images belοw'}
+2023-12-02 18:19:10 | DEBUG    | hcaptcha_challenger.agents.playwright.control:_catch_all_binary_challenge:474 | handle task - {'unsupervised': 'binary', 'candidate_labels': ['This is a picture that looks like please click on all musical instruments in the 9 images below.', "This is a picture that don't look like please click on all musical instruments in the 9 images below."], 'prompt': 'Please click on all musical instruments in the 9 images belοw', 'timit': '0.789s'}
+2023-12-02 18:19:21 | DEBUG    | epic_games.agent:insert_challenge:106 | task done - {'sattus': 'success'}
+2023-12-02 18:19:53 | INFO    | epic_games.agent:claim_weekly_games:294 | claim_weekly_games - {'action': 'go to store', 'url': 'https://store.epicgames.com/en-US/p/mighty-fight-federation'}
+2023-12-02 18:19:58 | INFO    | epic_games.agent:claim_weekly_games:294 | claim_weekly_games - {'action': 'go to store', 'url': 'https://store.epicgames.com/en-US/p/jitsu-squad-af3f2f'}
+2023-12-02 18:20:06 | INFO    | epic_games.agent:claim_weekly_games:326 | claim_weekly_games - {'action': 'move to webPurchaseContainer iframe'}
+2023-12-02 18:20:09 | INFO    | epic_games.agent:claim_weekly_games:328 | claim_weekly_games - {'action': 'click payment button'}
+2023-12-02 18:20:14 | DEBUG    | hcaptcha_challenger.agents.playwright.control:_parse_label:241 | get task - {'prompt': 'Please click on the head of the аnimаl'}
+2023-12-02 18:20:29 | DEBUG    | epic_games.agent:insert_challenge:106 | task done - {'sattus': 'success'}
+2023-12-02 18:21:01 | ERROR    | __main__:run:158 | An error has been caught in function 'run', process 'MainProcess' (3613), thread 'MainThread' (139998374742912): - {}
 Traceback (most recent call last):
   File "/home/runner/work/epic-awesome-gamer/epic-awesome-gamer/epic/src/claim.py", line 151, in stash
     await self.claim_epic_games(context)
