@@ -1,4 +1,4 @@
-2023-12-24 18:17:47 | INFO    | __main__:stash:131 | run - {'image': '20231121', 'version': '0.10.1.post2', 'role': 'EpicPlayer', 'headless': True}
-2023-12-24 18:17:54 | DEBUG    | __main__:create_tasks:66 | Put task - {'title': 'Fallout 3: Game of the Year Edition', 'url': 'https://store.epicgames.com/en-US/p/fallout-3-game-of-the-year-edition'}
-2023-12-24 18:18:02 | INFO    | epic_games.agent:claim_weekly_games:294 | claim_weekly_games - {'action': 'go to store', 'url': 'https://store.epicgames.com/en-US/p/fallout-3-game-of-the-year-edition'}
-2023-12-24 18:18:15 | SUCCESS    | epic_games.agent:claim_weekly_games:314 | Pass claim task - {'reason': 'Free games not added to shopping cart'}
+2023-12-25 18:19:32 | INFO    | __main__:stash:131 | run - {'image': '20231121', 'version': '0.10.1.post2', 'role': 'EpicPlayer', 'headless': True}
+2023-12-25 18:19:38 | DEBUG    | __main__:create_tasks:66 | Put task - {'title': 'Ghostwire: Tokyo', 'url': 'https://store.epicgames.com/en-US/p/ghostwire-tokyo'}
+2023-12-25 18:19:43 | INFO    | epic_games.agent:claim_weekly_games:294 | claim_weekly_games - {'action': 'go to store', 'url': 'https://store.epicgames.com/en-US/p/ghostwire-tokyo'}
+2023-12-25 18:19:59 | SUCCESS    | epic_games.agent:claim_weekly_games:314 | Pass claim task - {'reason': 'Free games not added to shopping cart'}
