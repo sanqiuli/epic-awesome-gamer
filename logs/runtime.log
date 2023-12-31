@@ -1,24 +1,23 @@
-2023-12-30 18:17:55 | INFO    | __main__:stash:131 | run - {'image': '20231121', 'version': '0.10.1.post2', 'role': 'EpicPlayer', 'headless': True}
-2023-12-30 18:18:01 | DEBUG    | __main__:create_tasks:66 | Put task - {'title': 'Snakebird Complete', 'url': 'https://store.epicgames.com/en-US/p/snakebird-complete-e6f0ae'}
-2023-12-30 18:18:05 | INFO    | epic_games.agent:claim_weekly_games:294 | claim_weekly_games - {'action': 'go to store', 'url': 'https://store.epicgames.com/en-US/p/snakebird-complete-e6f0ae'}
-2023-12-30 18:18:15 | INFO    | epic_games.agent:claim_weekly_games:326 | claim_weekly_games - {'action': 'move to webPurchaseContainer iframe'}
-2023-12-30 18:18:17 | INFO    | epic_games.agent:claim_weekly_games:328 | claim_weekly_games - {'action': 'click payment button'}
-2023-12-30 18:18:22 | DEBUG    | hcaptcha_challenger.agents.playwright.control:_parse_label:241 | get task - {'prompt': 'Please сlick on all images of tһe һeaviest animal speсіes'}
-2023-12-30 18:18:23 | DEBUG    | hcaptcha_challenger.agents.playwright.control:_catch_all_binary_challenge:474 | handle task - {'unsupervised': 'binary', 'candidate_labels': ['This is a picture that looks like please click on all images of the heaviest animal species.', "This is a picture that don't look like please click on all images of the heaviest animal species."], 'prompt': 'Please сlick on all images of tһe һeaviest animal speсіes', 'timit': '0.893s'}
-2023-12-30 18:18:34 | DEBUG    | epic_games.agent:insert_challenge:106 | task done - {'sattus': 'success'}
-2023-12-30 18:19:06 | INFO    | epic_games.agent:claim_weekly_games:294 | claim_weekly_games - {'action': 'go to store', 'url': 'https://store.epicgames.com/en-US/p/snakebird-complete-e6f0ae'}
-2023-12-30 18:19:15 | INFO    | epic_games.agent:claim_weekly_games:326 | claim_weekly_games - {'action': 'move to webPurchaseContainer iframe'}
-2023-12-30 18:19:17 | INFO    | epic_games.agent:claim_weekly_games:328 | claim_weekly_games - {'action': 'click payment button'}
-2023-12-30 18:19:22 | DEBUG    | hcaptcha_challenger.agents.playwright.control:_parse_label:241 | get task - {'prompt': 'Please click on all imаges of the һeaviest animal species'}
-2023-12-30 18:19:23 | DEBUG    | hcaptcha_challenger.agents.playwright.control:_catch_all_binary_challenge:474 | handle task - {'unsupervised': 'binary', 'candidate_labels': ['This is a picture that looks like please click on all images of the heaviest animal species.', "This is a picture that don't look like please click on all images of the heaviest animal species."], 'prompt': 'Please click on all imаges of the һeaviest animal species', 'timit': '0.732s'}
-2023-12-30 18:19:32 | DEBUG    | epic_games.agent:insert_challenge:106 | task done - {'sattus': 'success'}
-2023-12-30 18:20:04 | INFO    | epic_games.agent:claim_weekly_games:294 | claim_weekly_games - {'action': 'go to store', 'url': 'https://store.epicgames.com/en-US/p/snakebird-complete-e6f0ae'}
-2023-12-30 18:20:12 | INFO    | epic_games.agent:claim_weekly_games:326 | claim_weekly_games - {'action': 'move to webPurchaseContainer iframe'}
-2023-12-30 18:20:14 | INFO    | epic_games.agent:claim_weekly_games:328 | claim_weekly_games - {'action': 'click payment button'}
-2023-12-30 18:20:19 | DEBUG    | hcaptcha_challenger.agents.playwright.control:_parse_label:241 | get task - {'prompt': 'Ρlease click on all images of thе heaviest animal sрecies'}
-2023-12-30 18:20:20 | DEBUG    | hcaptcha_challenger.agents.playwright.control:_catch_all_binary_challenge:474 | handle task - {'unsupervised': 'binary', 'candidate_labels': ['This is a picture that looks like ρlease click on all images of the heaviest animal species.', "This is a picture that don't look like ρlease click on all images of the heaviest animal species."], 'prompt': 'Ρlease click on all images of thе heaviest animal sрecies', 'timit': '0.701s'}
-2023-12-30 18:20:30 | DEBUG    | epic_games.agent:insert_challenge:106 | task done - {'sattus': 'success'}
-2023-12-30 18:21:02 | ERROR    | __main__:run:158 | An error has been caught in function 'run', process 'MainProcess' (3520), thread 'MainThread' (140127651326848): - {}
+2023-12-31 18:17:57 | INFO    | __main__:stash:131 | run - {'image': '20231121', 'version': '0.10.1.post2', 'role': 'EpicPlayer', 'headless': True}
+2023-12-31 18:18:04 | DEBUG    | __main__:create_tasks:66 | Put task - {'title': 'Saints Row', 'url': 'https://store.epicgames.com/en-US/p/saints-row'}
+2023-12-31 18:18:10 | INFO    | epic_games.agent:claim_weekly_games:294 | claim_weekly_games - {'action': 'go to store', 'url': 'https://store.epicgames.com/en-US/p/saints-row'}
+2023-12-31 18:18:21 | INFO    | epic_games.agent:claim_weekly_games:326 | claim_weekly_games - {'action': 'move to webPurchaseContainer iframe'}
+2023-12-31 18:18:23 | INFO    | epic_games.agent:claim_weekly_games:328 | claim_weekly_games - {'action': 'click payment button'}
+2023-12-31 18:18:28 | DEBUG    | hcaptcha_challenger.agents.playwright.control:_parse_label:241 | get task - {'prompt': 'Please click аt the treasure sрot'}
+2023-12-31 18:18:30 | DEBUG    | hcaptcha_challenger.agents.playwright.control:lookup_objects:317 | handle task - {'catch_model': 'treasurechest2309_yolov8n.onnx', 'ash': 'please click at the treasure spot default'}
+2023-12-31 18:18:33 | DEBUG    | hcaptcha_challenger.agents.playwright.control:lookup_objects:317 | handle task - {'catch_model': 'treasurechest2309_yolov8n.onnx', 'ash': 'please click at the treasure spot default'}
+2023-12-31 18:18:35 | DEBUG    | epic_games.agent:insert_challenge:106 | task done - {'sattus': 'success'}
+2023-12-31 18:19:07 | INFO    | epic_games.agent:claim_weekly_games:294 | claim_weekly_games - {'action': 'go to store', 'url': 'https://store.epicgames.com/en-US/p/saints-row'}
+2023-12-31 18:19:16 | INFO    | epic_games.agent:claim_weekly_games:326 | claim_weekly_games - {'action': 'move to webPurchaseContainer iframe'}
+2023-12-31 18:19:18 | INFO    | epic_games.agent:claim_weekly_games:328 | claim_weekly_games - {'action': 'click payment button'}
+2023-12-31 18:19:23 | DEBUG    | hcaptcha_challenger.agents.playwright.control:_parse_label:241 | get task - {'prompt': "Ρlease clіck οn tһe rabbit's eye"}
+2023-12-31 18:19:29 | DEBUG    | epic_games.agent:insert_challenge:106 | task done - {'sattus': 'success'}
+2023-12-31 18:20:01 | INFO    | epic_games.agent:claim_weekly_games:294 | claim_weekly_games - {'action': 'go to store', 'url': 'https://store.epicgames.com/en-US/p/saints-row'}
+2023-12-31 18:20:10 | INFO    | epic_games.agent:claim_weekly_games:326 | claim_weekly_games - {'action': 'move to webPurchaseContainer iframe'}
+2023-12-31 18:20:13 | INFO    | epic_games.agent:claim_weekly_games:328 | claim_weekly_games - {'action': 'click payment button'}
+2023-12-31 18:20:18 | DEBUG    | hcaptcha_challenger.agents.playwright.control:_parse_label:241 | get task - {'prompt': 'Pleaѕe click at thе trеaѕure spot'}
+2023-12-31 18:20:23 | DEBUG    | epic_games.agent:insert_challenge:106 | task done - {'sattus': 'success'}
+2023-12-31 18:20:55 | ERROR    | __main__:run:158 | An error has been caught in function 'run', process 'MainProcess' (3612), thread 'MainThread' (140370686016384): - {}
 Traceback (most recent call last):
   File "/home/runner/work/epic-awesome-gamer/epic-awesome-gamer/epic/src/claim.py", line 151, in stash
     await self.claim_epic_games(context)
