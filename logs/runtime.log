@@ -1,4 +1,4 @@
-2024-01-02 18:19:27 | INFO    | __main__:stash:131 | run - {'image': '20231121', 'version': '0.10.1.post2', 'role': 'EpicPlayer', 'headless': True}
-2024-01-02 18:19:32 | DEBUG    | __main__:create_tasks:66 | Put task - {'title': 'Escape Academy', 'url': 'https://store.epicgames.com/en-US/p/escape-academy-bfc2bf'}
-2024-01-02 18:19:37 | INFO    | epic_games.agent:claim_weekly_games:294 | claim_weekly_games - {'action': 'go to store', 'url': 'https://store.epicgames.com/en-US/p/escape-academy-bfc2bf'}
-2024-01-02 18:19:53 | SUCCESS    | epic_games.agent:claim_weekly_games:314 | Pass claim task - {'reason': 'Free games not added to shopping cart'}
+2024-01-03 18:19:52 | INFO    | __main__:stash:131 | run - {'image': '20231121', 'version': '0.10.1.post2', 'role': 'EpicPlayer', 'headless': True}
+2024-01-03 18:19:59 | DEBUG    | __main__:create_tasks:66 | Put task - {'title': '20 Minutes Till Dawn', 'url': 'https://store.epicgames.com/en-US/p/20-minutes-till-dawn-be3305'}
+2024-01-03 18:20:07 | INFO    | epic_games.agent:claim_weekly_games:294 | claim_weekly_games - {'action': 'go to store', 'url': 'https://store.epicgames.com/en-US/p/20-minutes-till-dawn-be3305'}
+2024-01-03 18:20:22 | SUCCESS    | epic_games.agent:claim_weekly_games:314 | Pass claim task - {'reason': 'Free games not added to shopping cart'}
